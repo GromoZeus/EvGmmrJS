@@ -97,4 +97,4 @@
 Вы можете связаться со мной следующими способами:
 
 - Telegram: [EvGmmrJS](https://t.me/EvGmmrJS).
-- Email: EvGmmr@yandex.ru.
+- Email: ev.gmmr@yandex.ru.
